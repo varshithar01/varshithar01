@@ -1,4 +1,4 @@
-# Hi👋, I'm Varshitha
+                                                        # Hi👋, I'm Varshitha
 🎓 Second-year Computer Science Engineering student  <br>💻 Aspiring Software Developer  <br>🌱 Passionate about coding, learning and building new things.<br><br>### 🔭 I'm currently working on<br>- Improving my programming and problem-solving skills.<br>- Exploring AI and Machine Learning.<br>- Building practical projects.<br><br>### 🤝 I'm looking to collaborate on<br>- Python projects.<br>- Beginner-friendly AI/ML projects.<br>- Interesting software development projects.<br><br>### 💡 I'm looking for help with<br>- Data Structures and Algorithms (DSA).<br>- Machine Learning concepts.<br>- Improving my software development skills.<br><br>### 🌱 I'm currently learning<br>- Python<br>- Java<br>- C<br>- Git & GitHub<br>- Artificial Intelligence and Machine Learning<br><br>### 💬 Ask me about<br>- Python programming.<br>- Object-Oriented Programming (OOP).<br>- My beginner journey in AI/ML.<br><br>### 📫 Connect with me<br>- GitHub: https://github.com/varshithar01
 
 
