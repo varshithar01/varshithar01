@@ -19,7 +19,7 @@ Hi👋, I'm Varshitha<br><br>🎓 Second-year Computer Science Engineering stude
 ![](https://github-contributor-stats.vercel.app/api?username=varshithar01&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=varshithar01&icon=0&color=green)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=varshithar01&icon=0&color=blue)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
