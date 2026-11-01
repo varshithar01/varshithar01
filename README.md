@@ -1,7 +1,8 @@
 # 💫 About me
-#  <p style="text-align:center;"><b>Hi👋, I'm Varshitha</b></p>                                      
-<br>🎓 Second-year Computer Science Engineering student  <br>🌱 Passionate about coding, learning and building new things.
-
+#  Hi👋, I'm Varshitha                                      
+ <p align="center">
+  I am passionate about coding, learning, and building new things.
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
@@ -11,7 +12,9 @@
 Here are some ideas to get you started:
 
 -->
-   - 🔭 I’m currently working on Exploring AI and Machine Learning
+
+
+   - 🔭 I’m currently working on Exploring AI and Machine Learning</bn>
    - 🌱 I’m currently learning Git & GitHub 
    - 👯 I’m looking to collaborate on Python projects and Beginner-friendly AI/ML projects
    - 🤔 I’m looking for help with  Machine Learning concepts
